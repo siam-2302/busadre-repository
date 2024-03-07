@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header("XOR Cipher")
 
-plaintext = bytes(st.text_area("Plain Text:").encode())
+plaintext = bytes(st.text_input("Plain Text:").encode())
 key = bytes(st.text_input("Key:").encode())
 
 def xor_encrypt(plaintext, key):
