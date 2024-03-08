@@ -1,7 +1,8 @@
-# Welcome to streamlit
+# Welcome to my Repository
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+by: BUSADRE CHRISTIAN SIAM B.
+Section: BSCS3A
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+[My Streamlit APP](https://bscs3a.streamlit.app//)
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+
