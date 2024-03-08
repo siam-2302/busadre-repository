@@ -27,8 +27,6 @@ def encrypt_decrypt(text, shift_keys, ifdecrypt):
     return result, print_output
 
 def main():
-    st.title("Text Encryption and Decryption")
-
     text_input = st.text_input("Enter text:")
     keys_input = st.text_input("Enter shift keys separated by space:")
 
