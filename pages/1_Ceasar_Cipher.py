@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.header("Ceasar Cipher")
+
 def encrypt_decrypt(text, shift_keys, ifdecrypt):
     result = ""
     print_output = ""
